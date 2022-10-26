@@ -1,13 +1,12 @@
-CHIROPRACTIC APPLICATTION # frt
-CHIROPRACTIC APPLICATION- FUTURE READY TALENT VIRTUAL INTERNSHIP
-
-CHIROPRACTIC HEALTHCARE APPLICATION
+CHIROPRACTIC APPLICATTION # frt                                                                                             
+CHIROPRACTIC HEALTHCARE APPLICATION- FUTURE READY TALENT VIRTUAL INTERNSHIP
 
 Problem Statement:- To build a web application for facilitating health care services to the customers related to health care management system.
 
 Description:-
 My web application explains various practices followed at a chiropractic center. My web application also facilitates users to understand customer feedbacks, acquire basic chiropractic knowledge and provision to book consultation slots. The website also helps customers to learn new benefits of the services offered by the chiropractic centers.
 
+Project Demo URL:- https://chiropracticapplication.azurewebsites.net
 
 APPLICATION HOME:-
 ![image](https://user-images.githubusercontent.com/116746546/198091893-0752ea4a-8ce3-466b-b327-46fab0319265.png)
